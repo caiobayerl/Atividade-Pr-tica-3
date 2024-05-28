@@ -1,9 +1,11 @@
-# Criação e Gerenciamento de um Repositório no GitHub
+Atividade prática 3 - Aula 10
 
-## Objetivos: 
+Criação e Gerenciamento de um Repositório no GitHub
 
-Aprender a usar o sistema de versionamento GitHub para criar um repositório e gerenciar suas versões.
+Objetivos: Aprender a usar o sistema de versionamento GitHub para criar um repositório e gerenciar suas versões.
 
-## Descrição da Atividade:
+Materiais, Métodos e Ferramentas: Pesquisa na internet, conta no GitHub e conhecimento básico dos comandos Git.
 
-Nesta atividade, será contruído um prjeto HTML simples com exibição de uma imagem, no qual deve-se utilizar as funcionalidades do Git e do GitHub, assim como, a interação desses dois.
+Descrição da Atividade:
+
+Nesta atividade, você irá praticar o uso do Git, um sistema de controle de versão distribuído, e do GitHub, uma plataforma de hospedagem de código para controle de versão e colaboração, permitindo que você e outros trabalhem juntos em projetos de qualquer lugar.
